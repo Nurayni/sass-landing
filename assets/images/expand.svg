@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="97px" height="97px" viewBox="0 0 97 97" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0.130124822" y1="0.06605812" x2="1" y2="1.09564674" id="gradient_1">
+      <stop offset="0" stop-color="#BB75E0" />
+      <stop offset="1" stop-color="#E0A6FF" />
+    </linearGradient>
+  </defs>
+  <g id="Group">
+    <path d="M48.5 97C75.2858 97 97 75.2858 97 48.5C97 21.7142 75.2858 0 48.5 0C21.7142 0 0 21.7142 0 48.5C0 75.2858 21.7142 97 48.5 97Z" id="Oval" fill="url(#gradient_1)" stroke="none" />
+    <g id="bx-expand" transform="translate(32 32)">
+      <path d="M23.2962 12.2962L29.1115 6.48083L33 10.3693L33 0L22.6307 0L26.5192 3.8885L20.7038 9.70383L23.2962 12.2962ZM26.5192 29.1115L22.6307 33L33 33L33 22.6307L29.1115 26.5192L23.2962 20.7038L20.7038 23.2962L26.5192 29.1115ZM9.70383 20.7038L3.8885 26.5192L0 22.6307L0 33L10.3693 33L6.48083 29.1115L12.2962 23.2962L9.70383 20.7038ZM6.48083 3.8885L10.3693 0L0 0L0 10.3693L3.8885 6.48083L9.70383 12.2962L12.2962 9.70383L6.48083 3.8885Z" id="Shape" fill="#FFFFFF" stroke="none" />
+    </g>
+  </g>
+</svg>

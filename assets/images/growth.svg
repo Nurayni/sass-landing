@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="97px" height="98px" viewBox="0 0 97 98" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0.130124822" y1="0.06605812" x2="1" y2="1.09564674" id="gradient_1">
+      <stop offset="0" stop-color="#E8C275" />
+      <stop offset="1" stop-color="#FFDC95" />
+    </linearGradient>
+  </defs>
+  <g id="Group">
+    <g id="bx-download-alt" transform="matrix(-1 -8.742278E-08 8.742278E-08 -1 97 97.00006)">
+      <path d="M48.5 97C75.2858 97 97 75.2858 97 48.5C97 21.7142 75.2858 0 48.5 0C21.7142 0 0 21.7142 0 48.5C0 75.2858 21.7142 97 48.5 97Z" transform="matrix(-1 8.742278E-08 -8.742278E-08 -1 97 97)" id="Oval-Copy" fill="url(#gradient_1)" stroke="none" />
+      <path d="M0 30L30 30L30 26.25L17.3438 26.25L27.75 12.375C28.1776 11.8072 28.247 11.0462 27.9291 10.4104C27.6112 9.77464 26.9608 9.37357 26.25 9.375L22.5 9.375L22.5 1.875C22.5 0.839466 21.6605 0 20.625 0L9.375 0C8.33947 0 7.5 0.839466 7.5 1.875L7.5 9.375L3.75 9.375C3.04044 9.37642 2.39234 9.77786 2.07501 10.4125C1.75769 11.0472 1.8254 11.8065 2.25 12.375L12.6563 26.25L0 26.25L0 30ZM9.375 13.125C10.4105 13.125 11.25 12.2855 11.25 11.25L11.25 3.75L18.75 3.75L18.75 11.25C18.75 12.2855 19.5895 13.125 20.625 13.125L22.5 13.125L15 23.1244L7.5 13.125L9.375 13.125Z" transform="translate(33 33.00006)" id="Shape" fill="#FFFFFF" stroke="none" />
+    </g>
+  </g>
+</svg>
